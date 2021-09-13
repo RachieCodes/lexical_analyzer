@@ -13,3 +13,4 @@ javac microRLexer.java
 javac microRLex.java
 java microRLex < Test1.R 
 
+The output is shown in the output.txt file.
