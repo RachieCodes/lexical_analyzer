@@ -8,9 +8,9 @@ TO RUN:
 2. Make sure your machine has jflex, java, and R. This will be important to run the project. (CSCE Machines are what I used.)
 3. Run the project using these commands:
 
-jflex microR.jflex
-javac microRLexer.java
-javac microRLex.java
-java microRLex < Test1.R 
+- jflex microR.jflex
+- javac microRLexer.java
+- javac microRLex.java
+- java microRLex < Test1.R 
 
 The output is shown in the output.txt file.
